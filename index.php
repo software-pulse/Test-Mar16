@@ -35,5 +35,5 @@
 echo "Hello, Software!";
 echo "&nbsp;This is for PHP Test.";
 echo "&nbsp;Thank you!";
-echo "&nbsp;Welcome...";
+echo "&nbsp;Welcome Pulse...";
 ?>
